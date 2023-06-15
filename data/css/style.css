@@ -1,0 +1,56 @@
+  h1   {color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;}
+  h2   {color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;}
+  h4   {color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;}
+  h5   {color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;}
+  h6   {color: rgb(200,200,200);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(64,64,64);}
+  li   {color: rgb(200,200,200);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(64,64,64);}
+  p   {color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(32,32,32);}
+  strong {color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 0.5px; -webkit-text-stroke-color: rgb(80,0,0);}
+  input {background-color: rgb(32,32,32); color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+  input[type="submit"] {color: rgb(32,32,32);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+  label {font-size: 125%; color: rgb(200,0,0);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1.2px; -webkit-text-stroke-color: rgb(32,32,32);}
+  textarea[class="form-control"] {background-color: rgb(32,32,32); color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+  textarea[class="form-control"]:focus {background-color: rgb(32,32,32); color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+  textarea[class="form-control"]:active {background-color: rgb(32,32,32); color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+ 
+  select { background-color: rgb(32,32,32); color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(66,66,66);}
+
+  t {color: rgb(220,220,220);font-family: DooM; src:"../data/font/doom.ttf"; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: rgb(32,32,32);}
+
+
+  
+  a:link {
+  color: rgb(32,32,32);
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: rgb(64,0,0);
+  text-decoration: none;
+  font-family: DooM; src:"../data/font/doom.ttf";
+}
+a:visited {
+  color: rgb(32,32,32);
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: rgb(0,160,0);
+  text-decoration: none;
+  font-family: DooM; src:"../data/font/doom.ttf";
+}
+a:hover {
+  color: rgb(32,32,32);
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: rgb(255,0,0);
+  text-decoration: none;
+  font-family: DooM; src:"../data/font/doom.ttf";
+}
+a:focus {
+  color: rgb(0,255,255);
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: rgb(0,0,128);
+  text-decoration: none;
+  font-family: DooM; src:"../data/font/doom.ttf";
+}
+a:active {
+  color: rgb(255,255,0);
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: rgb(255,0,0);
+  text-decoration: none;
+  font-family: DooM; src:"../data/font/doom.ttf";
+}
